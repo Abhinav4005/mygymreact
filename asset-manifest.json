@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mygymreact/static/css/main.d968472f.css",
+    "main.js": "/mygymreact/static/js/main.24b0fcda.js",
+    "static/media/BodypartImage.png": "/mygymreact/static/media/BodypartImage.f683b0047bf14afd5229.png",
+    "static/media/Icon.jpg": "/mygymreact/static/media/Icon.50fdcee186a6eec5f19c.jpg",
+    "static/media/second.jpg": "/mygymreact/static/media/second.bf0b29393b3f0b96c37a.jpg",
+    "static/media/EquipmentImage.png": "/mygymreact/static/media/EquipmentImage.4843b72aa535a3efd15b.png",
+    "static/media/Logo.jpg": "/mygymreact/static/media/Logo.d24b4694e6ee3345fba2.jpg",
+    "index.html": "/mygymreact/index.html",
+    "main.d968472f.css.map": "/mygymreact/static/css/main.d968472f.css.map",
+    "main.24b0fcda.js.map": "/mygymreact/static/js/main.24b0fcda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d968472f.css",
+    "static/js/main.24b0fcda.js"
+  ]
+}
